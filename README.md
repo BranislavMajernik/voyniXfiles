@@ -86,40 +86,6 @@ Let's try translate first word "podaiin" using simple Googla translator from Wel
 | tcheol | tcheol      | music |
 | cthodd | cthodd      | got up |
 
-
-After such combination of possible words translation with botanical context, first two sentences can be translated as:
-- podaiin.cheo.kcho.daiin.chcthy -> pods mist goodness as well as 
-- sod.chol.y.tcheol.daiin.cthodd -> sod as dove's music to dance got up 
-
-** In Slovak ("struky zahalia blaženosťou ako aj podzemok ako holubia muzika do tanca povznáša, tak krátky strih zabráni blaženosti") **
-
-That means, text describe some euphorical, narcotical effects parts of illustrated plant.
-
-Looks promising, let's continue.
-
-"qo.shoqoky.shor.sheor.otol.daiin", with first short word "qo" is no equivalent word in translation, but small transcription change q->g give "go"->"that".
-Similar situation is with word otol, where "o"->"a" brings "atal"->"prevent" and word prevent in context of some herbal effects give a sense.
-Let's do another translation table.
-
-| Voynix      | Welsch | English          |
-| :---        |    :----:   |          ---: |
-| qo          | go          | that |
-| shoqoky     | shagy       | shaggy |
-| otol        | atal        | prevent |
-| shor        | shor        | shor |
-| sheor       | sheor       | George |
-| sheor       | shear       | shear  |
-| ochol      | ochol       | lateral   |
-| chol   | chol        | dove      |
-| chody      | chady      | yes |
-| dchodaiin   | dchodaiinn        | we could      |
-| dchodaiin   | dchodainn        | we can      |
-| dchodaiin   | dchodain       | thirty |
-| qocho | gach     | each |
-| cheey  | daiinn      | goodness  |
-| dchey  | dainn       | we dance  |
-| qotchody   | sod         | sod       |
-
 After such combination of possible words translation with botanical context, first two sentences can be translated as:
 - podaiin.cheo.kcho.daiin.chcthy -> pods mist goodness as well as
 - sod.chol.y.tcheol.daiin.cthodd -> sod as dove's music to dance got up
