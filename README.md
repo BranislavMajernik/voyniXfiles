@@ -27,7 +27,7 @@ In the book he found a letter from 1665, written by mentioned Prague scholar Joh
 Wilfrid Voynich thought that the book could have been sold to the emperor by the Englishman John Dee. We do not know exactly where the manuscript originated and who created it.
 
 ## Occam's razor principle (or follow the money principle) in assumption about author and language of Voynich's manuscript
-By mentioned letter, Emperor Rudolf II paid 600 gold ducats, approximatelly million dolars in today price (600 x troy ounce of gold, 31 g = cca 1,86 kg gold) for this manuscript.
+By mentioned letter, Emperor Rudolf II paid 600 gold [ducats](https://www.numizmatik.eu/p/2447/rudolf-ii-dukat-1589-kb), approximatelly 100000 dolars in today price (600 x 3,5 g = cca 1,86 kg gold) for this manuscript..
 Rudolf II was well known for his ability spent lot of money to buy art, alchemistic, occult artefacts.
 An this was a great opportunity for speculative business for experienced alchemists, occultists like John Dee, or Edward Kelly, both acting on court of Emperor Rudolf II.
 
