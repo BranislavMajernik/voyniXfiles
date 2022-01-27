@@ -90,7 +90,7 @@ After such combination of possible words translation with botanical context, fir
 - podaiin.cheo.kcho.daiin.chcthy -> pods mist goodness as well as
 - sod.chol.y.tcheol.daiin.cthodd -> sod as dove's music to dance got up
 
-***In Slovak ("struky zahalia eufóriou/dobrotou ako aj drn/podzemok ako mierumilovna muzika do tanca povznáša")***
+***In Slovak ("struky zahalia eufóriou/dobrotou ako aj drn/podzemok ako mierumilovná muzika do tanca povznáša")***
 
 That means, text describe some euphorical stimulant effects from parts of illustrated plant.
 Cracking of manuscript looks promising, let's continue.
